@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Custom Trees Modest"
+        },
+        "description": {
+            "text": "Autofill /function custrees_modest:config/ to change default Tree form"
+        },
+        "icon": {
+            "id": "minecraft:spruce_sapling"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "1": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "imalittlhigh:root"
+}
