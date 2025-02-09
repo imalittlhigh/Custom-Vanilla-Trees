@@ -1,6 +1,21 @@
 {
 	"pack": {
-		"pack_format": 48,
-		"description": "Vanilla-like Custom Trees by imalittlhigh"
+	  "pack_format": 61,
+	  "description": {
+		"text": "Vanilla-Like Custom Trees",
+		"color": "gold",
+		"extra": [
+		  {
+			"text": " by ",
+			"color": "aqua"
+		  },
+		  {
+			"text": "imalittlhigh",
+			"color": "gold",
+			"italic": true
+		  }
+		]
+	  }
 	}
-}
+  }
+  
